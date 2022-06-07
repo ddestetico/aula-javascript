@@ -1,2 +1,1 @@
-# aula-javascript
-introdução ao javascript 
+# aula_jquery_ajax
